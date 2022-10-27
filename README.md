@@ -12,6 +12,7 @@ NotenApple
 
 ---
 
+<!--
 ### Language
 
 <p align="left">
@@ -22,6 +23,8 @@ NotenApple
    -->
    
 </p>
+
+-->
 
 ## License
 
